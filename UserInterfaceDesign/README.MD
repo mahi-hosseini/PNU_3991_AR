@@ -45,18 +45,18 @@
  </tr>
  
  <tr>
- <th  align="center">http://mohamadimahnaz.github.io/PNU_3991_AR/</th>
- <td  align="center">https://mohamadimahnaz.github.io/sop/</td>
- <td  align="center">https://mohamadimahnaz.github.io/resome/</td>
+ <th  align="center"></th>
+ <td  align="center"></td>
+ <td  align="center"></td>
  <td  align="center">ابوذر رقیب دوست</td>
  <td  align="center">980199613</td>
  <td align="center">3</td>
  </tr>
  
  <tr>
- <th  align="center">http://github.com/alirezasaeidipour/PNU_3991_AR</th>
- <td  align="center">http://alirezasaeidipour.github.io/SOP</td>
- <td  align="center">https://alirezasaeidipour.github.io/</td>
+ <th  align="center"></th>
+ <td  align="center"></td>
+ <td  align="center"></td>
  <td  align="center">زینب ملکی راد</td>
  <td  align="center">970208157</td>
  <td align="center">4</td>
