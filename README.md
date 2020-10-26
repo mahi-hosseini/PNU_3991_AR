@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/FatemehVakili/)
 
-- [رزومه](https://github.com/FatemehVakili.github.io)
+- [رزومه](https://FatemehVakili.github.io/)
 
 - [SOP](https://FatemehVakili.github.io/SOP/)
 
