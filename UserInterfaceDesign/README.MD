@@ -1,1 +1,65 @@
+<table style="width:100%">
 
+<tr>
+<td colspan="6" align="center">اعضای گروه</td>
+</tr>
+
+  
+<tr>
+<td colspan="6"  align="center">نام درس :طراحی واسط کاربر</td>
+</tr>
+
+<tr>
+<td colspan="6"  align="center">موضوع پروژه:</td>
+</tr>
+
+<tr>
+<td colspan="6"   align="center">سرگروه تیم:فاطمه وکیلی</td>
+</tr>
+
+<tr>
+ <th  align="center">PNU_3991_AR</th>
+ <th  align="center">SOP</th>
+ <th  align="center">رزومه</th>
+ <th  align="center">نام/نام خانوادگی</th>
+ <th  align="center">شماره دانشجویی</th>
+ <th  align="center">ردیف</th>
+ </tr>
+ 
+ <tr>
+ <th  align="center">https://github.com/fatemehvakili/PNU_3991_AR</th>
+ <td  align="center">https://fatemehvakili.github.io/SOP/</td>
+ <td  align="center">https://fatemehvakili.github.io/</td>
+ <td  align="center">فاطمه وکیلی</td>
+ <td  align="center">980173622</td>
+ <td align="center">1</td>
+ </tr>
+ 
+ <tr>
+ <th  align="center"></th>
+ <td  align="center"></td>
+ <td  align="center"></td>
+ <td  align="center">حمیدرضا میرزائی</td>
+ <td  align="center">949513880</td>
+ <td align="center">2</td>
+ </tr>
+ 
+ <tr>
+ <th  align="center">http://mohamadimahnaz.github.io/PNU_3991_AR/</th>
+ <td  align="center">https://mohamadimahnaz.github.io/sop/</td>
+ <td  align="center">https://mohamadimahnaz.github.io/resome/</td>
+ <td  align="center">ابوذر رقیب دوست</td>
+ <td  align="center">980199613</td>
+ <td align="center">3</td>
+ </tr>
+ 
+ <tr>
+ <th  align="center">http://github.com/alirezasaeidipour/PNU_3991_AR</th>
+ <td  align="center">http://alirezasaeidipour.github.io/SOP</td>
+ <td  align="center">https://alirezasaeidipour.github.io/</td>
+ <td  align="center">زینب ملکی راد</td>
+ <td  align="center">970208157</td>
+ <td align="center">4</td>
+ </tr>
+
+</table>
