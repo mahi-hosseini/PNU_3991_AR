@@ -14,9 +14,9 @@
 
 ## دروس کارشناسی
 <br>
-[1322110_01 طراحي واسط كاربر 3](https://github.com/BaharbSalmas/PNU_3991_AR/tree/main/UserInterfaceDesign)
+[1322110_01 طراحي واسط كاربر 3](https://github.com/FatemehVakili/PNU_3991_AR/tree/main/UserInterfaceDesign)
 
---------------
+----------------
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
@@ -48,7 +48,7 @@
     <th ></th>
     <th ></th>
     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">طراحي واسط كاربر</a></th>
- 
+    <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">تعامل انسان و كامپيوتر</a></th>
     <th ></th>   
     <th>دوشنبه</th>
   </tr>
@@ -77,3 +77,4 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
+
