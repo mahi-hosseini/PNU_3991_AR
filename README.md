@@ -13,9 +13,8 @@
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
+[1322110_01	طراحي واسط كاربر	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
 <br>
-[1322110_01 طراحي واسط كاربر 3](https://github.com/FatemehVakili/PNU_3991_AR/tree/main/UserInterfaceDesign)
-
 ----------------
 ## روز و ساعت ارائه دروس
 
