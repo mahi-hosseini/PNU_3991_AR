@@ -79,4 +79,3 @@
   </tr>
 </table>
 ---------------
-[حميدرضا ميرزايي]https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/33
