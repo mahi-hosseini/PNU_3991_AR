@@ -5,12 +5,11 @@
 ---
 - [حساب گیت هاب](https://github.com/mahi-hosseini/)
 
-- [javascript](http://www.sololearn.com/certificate/1024-20275259/pdf)
-
 - [رزومه](https://mahi-hosseini.github.io/)
 
 - [SOP](https://github.com/mahi-hosseini/SOP/)
 
+- [javascript](http://www.sololearn.com/certificate/1024-20275259/pdf)
 ------------------
 ## Winter Semester Courses 1399/2020
 
