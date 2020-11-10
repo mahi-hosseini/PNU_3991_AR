@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/mahi-hosseini/)
 
-- [رزومه](https://fatemehvakili.github.io/)
+- [رزومه](https://mahi-hosseini.github.io/)
 
 - [SOP](https://github.com/mahi-hosseini/SOP/)
 
