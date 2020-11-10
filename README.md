@@ -5,6 +5,8 @@
 ---
 - [حساب گیت هاب](https://github.com/mahi-hosseini/)
 
+- [javascript](http://www.sololearn.com/certificate/1024-20275259/pdf)
+
 - [رزومه](https://mahi-hosseini.github.io/)
 
 - [SOP](https://github.com/mahi-hosseini/SOP/)
@@ -31,7 +33,7 @@
   <tr>
     <th ></th>
     <th ></th>
-    <th ></th>
+    <th > <a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">نظریه زبانها و ماشینها</a></th>
     <th></th>
     <th></th>
     <th>شنبه</th>
