@@ -1,13 +1,13 @@
 # PNU_3991_AR
 ---------
-### فاطمه وکیلی
+### مهدیه حسینی
  
 ---
-- [حساب گیت هاب](https://github.com/FatemehVakili/)
+- [حساب گیت هاب](https://github.com/mahi-hosseini/)
 
 - [رزومه](https://fatemehvakili.github.io/)
 
-- [SOP](https://FatemehVakili.github.io/SOP/)
+- [SOP](https://github.com/mahi-hosseini/SOP/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
