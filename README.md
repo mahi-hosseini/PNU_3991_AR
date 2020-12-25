@@ -3,13 +3,13 @@
 ### مهدیه حسینی
  
 ---
-- [حساب گیت هاب](https://github.com/mahi-hosseini/)
+- [GitHub](https://github.com/mahi-hosseini/)
 
-- [رزومه](https://mahi-hosseini.github.io/)
+- [Resume](https://mahi-hosseini.github.io/)
 
 - [SOP](https://github.com/mahi-hosseini/SOP/)
 
-- [javascript](http://www.sololearn.com/certificate/1024-20275259/pdf)
+- [Certificates](http://www.sololearn.com/certificate/1024-20275259/pdf)
 
 - [jlord patchwork](https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/patchwork%20(2).PNG)
 ------------------
