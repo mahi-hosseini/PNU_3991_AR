@@ -26,7 +26,7 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/_General/XX_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی]()
+- [خلاصه ارزیابی بخش عمومی](https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/_General/XX_GeneralSection_CheckList_AR_3991.pdf)
 
 ## بخش دروس کارشناسی
 - [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها ]()
