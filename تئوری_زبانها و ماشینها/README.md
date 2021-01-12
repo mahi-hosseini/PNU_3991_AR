@@ -13,8 +13,7 @@ http://m.aparat.com/v/mwVL3)
 http://m.aparat.com/v/TPBqk)
 - [قسمت ۳](نظریه زبان ها و ماشین ها فصل ۸ قسمت ۳
 http://m.aparat.com/v/Wq2de)
--[قسمت ۴](نظریه زبان ها و ماشین ها قسمت ۴
-http://m.aparat.com/v/Cpay0)
+-[قسمت ۴](http://m.aparat.com/v/Cpay0)
 # ارائه نوشتاری درس از منابع دیگر با لاتک
 - [Latex.pdf](https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/theory_of_languages_and_machines/Finite_automata_73_76%20(1).pdf)
 - [latex.chktex](https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/theory_of_languages_and_machines/output.chktex)
