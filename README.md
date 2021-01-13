@@ -29,7 +29,7 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/_General/XX_GeneralSection_CheckList_AR_3991.pdf)
 
 ## بخش دروس کارشناسی
-- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها ]()
+- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها ](https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/theory_of_languages_and_machines/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 -------------
 
 ## روز و ساعت ارائه دروس
