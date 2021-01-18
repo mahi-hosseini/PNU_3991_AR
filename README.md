@@ -14,6 +14,8 @@
 - [Certificates](http://www.sololearn.com/certificate/1024-20275259/pdf)
 
 - [jlord patchwork](https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/patchwork%20(2).PNG)
+
+- [Theory Language and Machine Folder](https://github.com/mahi-hosseini/PNU_3991_AR/tree/main/theory_of_languages_and_machines)
 ------------------
 ## Winter Semester Courses 1399/2020
 
