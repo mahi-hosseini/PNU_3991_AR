@@ -5,16 +5,16 @@
 
 <br>
 
-# ارائه شفاهی یک فصل از کتاب مرجع اصلی درس
+## ارائه شفاهی یک فصل از کتاب مرجع اصلی درس
 - [ارائه شفاهی فصل هشتم قسمت اول](http://m.aparat.com/v/mwVL3)
 - [ارائه شفاهی فصل هشتم قسمت دوم](http://m.aparat.com/v/TPBqk)
 - [ارائه شفاهی فصل هشتم قسمت سوم](http://m.aparat.com/v/Wq2de)
 - [ارائه شفاهی فصل هشتم قسمت چهارم](http://m.aparat.com/v/Cpay0)
 
-# ارائه نوشتاری درس از منابع دیگر با لاتک
+## ارائه نوشتاری درس از منابع دیگر با لاتک
 - [finite_Automata73_76.pdf](https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/theory_of_languages_and_machines/Finite_automata_73_76%20(1).pdf)
 
-# ارائه دو مساله از منابع دیگر با لاتک
+## ارائه دو مساله از منابع دیگر با لاتک
 - [beamer.pdf](https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/theory_of_languages_and_machines/bemar__two_Examples.pdf)
 
 ---------------
