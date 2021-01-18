@@ -17,10 +17,10 @@
 # ارائه دو مساله از منابع دیگر با لاتک
 - [beamer.pdf](https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/theory_of_languages_and_machines/bemar__two_Examples.pdf)
 
+---------------
 <br>
-# گروه
 
-G-L02
+1. G-L02
     1. [_TLM02-65_فاطمه موسائی اغجه کهل**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/65_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D9%88%D8%B3%D8%A7%D8%A6%D9%8A%20%D8%A7%D8%BA%D8%AC%D9%87%20%D9%83%D9%87%D9%84)
     1. [_TLM01-19_مهدیه حسینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/19_%D9%85%D9%87%D8%AF%D9%8A%D9%87%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)
     1. [_TLM01-48_عطيه فرخي حاجي اباد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/48_%D8%B9%D8%B7%D9%8A%D9%87%20%D9%81%D8%B1%D8%AE%D9%8A%20%D8%AD%D8%A7%D8%AC%D9%8A%20%D8%A7%D8%A8%D8%A7%D8%AF)
@@ -32,6 +32,8 @@ G-L02
     1. [_TLM02-38_فاطمه عابدینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/38_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86%D9%8A)
     1. [_TLM02-69_سیده فاطمه ودیعی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/69_%D8%B3%D9%8A%D8%AF%D9%87%20%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%88%D8%AF%D9%8A%D8%B9%D9%8A)
     
+   
+
 
 ## خلاصه ارزیابی درس
 - [ارزیابی](https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/theory_of_languages_and_machines/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
