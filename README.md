@@ -7,7 +7,7 @@
 ---
 - [GitHub](https://github.com/mahi-hosseini/)
 
-- [Resume](https://mahi-hosseini.github.io/)
+- [Resume](https://mahi-hosseini.github.io/Mahi-hoseini.github.io/)
 
 - [SOP](https://github.com/mahi-hosseini/SOP/)
 
