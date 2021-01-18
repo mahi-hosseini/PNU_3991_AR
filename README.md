@@ -15,7 +15,7 @@
 
 - [jlord patchwork](https://github.com/mahi-hosseini/PNU_3991_AR/blob/main/patchwork%20(2).PNG)
 
-- [Theory Language and Machine Folder](https://github.com/mahi-hosseini/PNU_3991_AR/tree/main/theory_of_languages_and_machines)
+- [Theory of Languages and Machines Folder](https://github.com/mahi-hosseini/PNU_3991_AR/tree/main/theory_of_languages_and_machines)
 ------------------
 ## Winter Semester Courses 1399/2020
 
